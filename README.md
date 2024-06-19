@@ -41,7 +41,7 @@ The E-commerce chatbot follows a structured flow to ensure user queries are hand
 
 ## 📊 Process Diagram
 
-![Process Diagram](./path/to/image.png)
+![Process Diagram](https://github.com/mahin78692/E-Commerce-Chatbot/blob/main/E_Commerce_Chatbot.png)
 
 ---
 
